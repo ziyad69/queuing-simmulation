@@ -1,0 +1,25 @@
+
+====== QUEUING SYSTEM SIMULATION LOG ======
+
+-- Clock:    1 --
+-- Clock:    2 --
+
+[Simulation ended — 0 customer(s) still in queue]
+
+╔══════════════════════════════════════════╗
+║        SIMULATION SUMMARY REPORT         ║
+╚══════════════════════════════════════════╝
+  Number of servers       : 4
+  Simulated minutes       : 2
+  Arrival probability     : 30%
+  Service time range      : [1, 4]
+
+  Total customers arrived : 0
+  Customers served        : 0
+  Customers still waiting : 0
+
+  Avg waiting time        : 0.00 ticks
+  Avg service time        : 0.00 ticks
+  Avg queue length        : 0.00 customers
+  Max queue length        : 0
+
